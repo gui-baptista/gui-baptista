@@ -3,11 +3,11 @@
 
 - I’m currently working on **E-Comerce Analysis**
 
-- I’m currently learning **Python for Finance**
-
 - I am currently involved in **Risk and Credit**
 
 - I’m currently assigned to **Inflation and Economy**
+
+- I’m currently learning **Python for Finance**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
